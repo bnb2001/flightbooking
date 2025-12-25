@@ -57,7 +57,7 @@ The application will start on port `8080`.
 
 ## API Documentation
 
-See [api_documentation.md](api_documentation.md) for detailed API usage, request schemas, and curl examples.
+See [docs/api_documentation.md](docs/api_documentation.md) for detailed API usage, request schemas, and curl examples.
 
 ## Testing the Application
 
